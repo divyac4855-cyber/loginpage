@@ -3,7 +3,10 @@ class Login{
         System.out.println("Login page");
 
     }
-    void(){
-        
+    void f1(){
+
+    }
+    void otp(){
+        System.out.println("OTP feature added")
     }
 }
